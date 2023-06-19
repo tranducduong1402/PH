@@ -1,0 +1,801 @@
+.child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-antiquewhite);
+  width: 1440px;
+  height: 798px;
+}
+.jasmin-chew-wkd2vie8rb0-unspla-icon {
+  position: absolute;
+  top: 0;
+  left: 721px;
+  width: 719px;
+  height: 798px;
+  object-fit: cover;
+}
+.your-black-friday {
+  position: absolute;
+  top: 171px;
+  left: 138px;
+  text-transform: uppercase;
+  display: inline-block;
+  font-family: var(--title);
+  width: 567px;
+  height: 210px;
+}
+.a-supporting-description {
+  position: absolute;
+  top: 406px;
+  left: 135px;
+  font-size: var(--font-size-5xl);
+  color: var(--text);
+  display: inline-block;
+  width: 570px;
+  height: 101px;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--title);
+  box-sizing: border-box;
+  width: 313px;
+  height: 83px;
+}
+.shop-now {
+  position: absolute;
+  top: 21px;
+  left: 20px;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+  width: 274px;
+  height: 41px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 544px;
+  left: 135px;
+  width: 313px;
+  height: 83px;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+}
+.div,
+.item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+}
+.div {
+  height: 798px;
+  text-align: left;
+  font-size: 72px;
+}
+.item {
+  background-color: var(--color-white);
+  height: 500px;
+}
+.here-are-some {
+  margin: 0;
+}
+.benefit-3,
+.here-are-some-container,
+.worldwide-shipping-is {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 1170px;
+  height: 148px;
+}
+.benefit-3,
+.worldwide-shipping-is {
+  width: 114px;
+  height: 41px;
+}
+.worldwide-shipping-is {
+  top: 41px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-roboto);
+  color: var(--text);
+  width: 233px;
+  height: 80px;
+}
+.benefit-3-parent,
+.tag-1-icon {
+  position: absolute;
+  top: 0;
+  left: 100px;
+  width: 233px;
+  height: 121px;
+}
+.tag-1-icon {
+  left: 0;
+  width: 70px;
+  height: 70px;
+  overflow: hidden;
+}
+.group-container,
+.group-div,
+.group-parent,
+.group-parent1 {
+  position: absolute;
+  top: 0;
+  left: 837px;
+  width: 333px;
+  height: 121px;
+}
+.group-div,
+.group-parent,
+.group-parent1 {
+  left: 418px;
+}
+.group-parent,
+.group-parent1 {
+  left: 0;
+}
+.group-parent {
+  top: 197px;
+  width: 1170px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+}
+.div1,
+.here-are-some-of-the-benefits-parent {
+  position: absolute;
+  top: 91px;
+  left: 135px;
+  width: 1170px;
+  height: 318px;
+}
+.div1 {
+  top: 798px;
+  left: 0;
+  width: 1440px;
+  height: 500px;
+  font-family: var(--title);
+}
+.angelica-echeverry-mi82mflu538-icon,
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 720px;
+  height: 460px;
+}
+.angelica-echeverry-mi82mflu538-icon {
+  object-fit: cover;
+}
+.group-item {
+  background-color: var(--color-tan);
+}
+.time-is-running {
+  position: absolute;
+  top: 85px;
+  left: 98.94px;
+  display: inline-block;
+  font-family: var(--title);
+  width: 522.12px;
+  height: 113px;
+}
+.group-inner {
+  position: absolute;
+  top: 0;
+  left: 19.59px;
+  background-color: var(--color-white);
+  border: 1px solid var(--title);
+  box-sizing: border-box;
+  width: 228.24px;
+  height: 62px;
+}
+.shop-now1 {
+  position: absolute;
+  top: 19px;
+  left: 0;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+  width: 268.41px;
+  height: 41px;
+}
+.rectangle-container {
+  position: absolute;
+  top: 312px;
+  left: 226.29px;
+  width: 268.41px;
+  height: 62px;
+  font-size: var(--font-size-5xl);
+  color: var(--title);
+}
+.b {
+  top: 0;
+  text-transform: uppercase;
+  display: inline-block;
+  height: 53px;
+}
+.b,
+.b2,
+.days,
+.group,
+.parent {
+  position: absolute;
+  left: 0;
+  width: 82.29px;
+}
+.days {
+  top: 49px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  height: 53px;
+}
+.b2,
+.group,
+.parent {
+  top: 0;
+  height: 102px;
+}
+.b2,
+.group {
+  left: 135.18px;
+}
+.b2 {
+  top: 29px;
+  left: 95.02px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 27.43px;
+  height: 34px;
+}
+.b5,
+.b6,
+.container,
+.parent1 {
+  position: absolute;
+  top: 0;
+  left: 270.37px;
+  width: 82.29px;
+  height: 102px;
+}
+.b5,
+.b6,
+.parent1 {
+  left: 405.55px;
+}
+.b5,
+.b6 {
+  top: 29px;
+  left: 365.39px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 27.43px;
+  height: 34px;
+}
+.b6 {
+  left: 230.2px;
+}
+.group-parent2 {
+  position: absolute;
+  top: 189px;
+  left: 115.59px;
+  width: 487.84px;
+  height: 102px;
+  font-size: var(--font-size-23xl);
+}
+.rectangle-group {
+  position: absolute;
+  top: 0;
+  left: 720px;
+  width: 720px;
+  height: 460px;
+}
+.div2,
+.inner {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+.div2 {
+  top: 1298px;
+  height: 460px;
+  color: var(--color-white);
+}
+.inner {
+  top: 0;
+  background-color: var(--color-white);
+  height: 1185px;
+}
+.featured-products {
+  top: 99px;
+  left: 135px;
+  font-size: var(--title-size);
+  font-family: var(--title);
+  color: var(--title);
+  width: 1170px;
+  height: 148px;
+}
+.div4,
+.div5,
+.featured-products,
+.product-name {
+  position: absolute;
+  display: inline-block;
+}
+.product-name {
+  top: 287px;
+  left: 0;
+  font-family: var(--title);
+  color: var(--title);
+  width: 270px;
+  height: 34px;
+}
+.div4,
+.div5 {
+  top: 321px;
+  height: 22px;
+}
+.div4 {
+  left: 70px;
+  text-decoration: line-through;
+  width: 65px;
+}
+.div5 {
+  left: 138px;
+  font-weight: 500;
+  width: 62px;
+}
+.rectangle-div,
+.stephanie-harvey-bh3fpwbiiq-u-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 270px;
+  height: 270px;
+}
+.rectangle-div {
+  background-color: var(--color-silver);
+}
+.stephanie-harvey-bh3fpwbiiq-u-icon {
+  object-fit: cover;
+}
+.group-child1 {
+  position: absolute;
+  top: 360px;
+  left: 70px;
+  background-color: var(--color-white);
+  border: 1px solid var(--text);
+  box-sizing: border-box;
+  width: 130px;
+  height: 30px;
+}
+.shop-now2 {
+  position: absolute;
+  top: 368px;
+  left: 84px;
+  font-size: var(--font-size-sm);
+  text-transform: uppercase;
+  display: inline-block;
+  width: 102px;
+  height: 16px;
+}
+.product-name-parent {
+  position: absolute;
+  top: 230px;
+  left: 135px;
+  width: 270px;
+  height: 390px;
+}
+.rectangle-parent1,
+.rectangle-parent2,
+.rectangle-parent3 {
+  position: absolute;
+  top: 230px;
+  left: 435px;
+  width: 270px;
+  height: 390px;
+}
+.rectangle-parent2,
+.rectangle-parent3 {
+  left: 735px;
+}
+.rectangle-parent3 {
+  left: 1035px;
+}
+.tessa-wilson-ecr-8nuxpba-unspl-icon {
+  position: absolute;
+  top: 688px;
+  left: 135px;
+  width: 570px;
+  height: 395px;
+  object-fit: cover;
+}
+.bundle-sell,
+.get-1-ring {
+  position: absolute;
+  left: 199px;
+  display: inline-block;
+  width: 441px;
+  height: 61px;
+}
+.bundle-sell {
+  top: 982px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--title);
+  color: var(--title);
+}
+.get-1-ring {
+  top: 1038px;
+  font-size: var(--font-size-lg);
+}
+.mel-bn0hcabdpug-unsplash-1-icon {
+  position: absolute;
+  top: 688px;
+  left: 735px;
+  width: 570px;
+  height: 395px;
+  object-fit: cover;
+}
+.couple-rings,
+.get-10-off {
+  position: absolute;
+  left: 805px;
+  display: inline-block;
+  width: 441px;
+  height: 61px;
+}
+.couple-rings {
+  top: 982px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--title);
+  color: var(--title);
+}
+.get-10-off {
+  top: 1038px;
+  font-size: var(--font-size-lg);
+}
+.child1,
+.div3 {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+.div3 {
+  top: 1758px;
+  height: 1185px;
+  font-size: var(--font-size-xl);
+  color: var(--text);
+}
+.child1 {
+  top: 0;
+  background-color: var(--color-antiquewhite);
+  height: 540px;
+}
+.customers-name {
+  top: 262px;
+  left: 435px;
+  line-height: 140.4%;
+  text-transform: uppercase;
+  font-weight: 500;
+  width: 570px;
+  height: 29px;
+}
+.customers-name,
+.testimonial,
+.the-convenience-of {
+  position: absolute;
+  display: inline-block;
+}
+.testimonial {
+  top: 87px;
+  left: 135px;
+  font-size: var(--title-size);
+  font-family: var(--title);
+  color: var(--title);
+  width: 1170px;
+  height: 148px;
+}
+.the-convenience-of {
+  top: 195px;
+  left: 377px;
+  line-height: 140.4%;
+  width: 686px;
+  height: 187px;
+}
+.sam-chapman-ft7frzdlojc-unspla-icon,
+.zahir-namane-0dmdb34sccm-unspl-icon {
+  position: absolute;
+  top: 317px;
+  left: 655px;
+  border-radius: var(--br-341xl);
+  width: 130px;
+  height: 130px;
+  object-fit: cover;
+}
+.zahir-namane-0dmdb34sccm-unspl-icon {
+  top: 332px;
+  left: 835px;
+  width: 100px;
+  height: 100px;
+}
+.oleg-ivanov-ffloik9l5qg-unspla-icon {
+  position: absolute;
+  top: 332px;
+  left: 505px;
+  border-radius: 60px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.child2,
+.div12 {
+  position: absolute;
+  width: 1440px;
+}
+.div12 {
+  top: 2943px;
+  left: 0;
+  height: 540px;
+  font-size: var(--font-size-lg);
+  color: var(--text);
+}
+.child2 {
+  top: 0;
+  left: 65px;
+  background-color: var(--color-white);
+  height: 604px;
+}
+.social-proofs {
+  position: absolute;
+  top: 78px;
+  left: 501px;
+  display: inline-block;
+  width: 570px;
+  height: 94px;
+}
+.ann-vwjjvxcalhm-unsplash-1-icon,
+.saeed-anahid-ghlgb-oxnw-unspl-icon {
+  position: absolute;
+  top: 208px;
+  left: 400px;
+  width: 370px;
+  height: 370px;
+  object-fit: cover;
+}
+.saeed-anahid-ghlgb-oxnw-unspl-icon {
+  left: 800px;
+}
+.brooke-cagle-keleigko7pu-unspl-icon,
+.kate-hliznitsova-vbnxgxj6cjg-u-icon {
+  position: absolute;
+  top: 208px;
+  left: 65px;
+  width: 370px;
+  height: 370px;
+  object-fit: cover;
+}
+.brooke-cagle-keleigko7pu-unspl-icon {
+  left: 1202px;
+}
+.div13 {
+  position: absolute;
+  top: 3482px;
+  left: -65px;
+  width: 1572px;
+  height: 604px;
+  font-family: var(--title);
+}
+.group-child8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--title);
+  box-sizing: border-box;
+  width: 400px;
+  height: 62px;
+}
+.complimentary-delivery {
+  position: absolute;
+  top: 19px;
+  left: 30px;
+  font-weight: 500;
+  display: inline-block;
+  width: 340px;
+  height: 27px;
+}
+.rectangle-parent4,
+.rectangle-parent5,
+.rectangle-parent6,
+.rectangle-parent7 {
+  position: absolute;
+  top: 4527px;
+  left: 764px;
+  width: 400px;
+  height: 62px;
+  display: none;
+  font-size: var(--font-size-5xl);
+}
+.rectangle-parent5,
+.rectangle-parent6,
+.rectangle-parent7 {
+  top: 4616px;
+}
+.rectangle-parent6,
+.rectangle-parent7 {
+  top: 4705px;
+}
+.rectangle-parent7 {
+  top: 4794px;
+}
+.child3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-antiquewhite);
+  width: 1440px;
+  height: 613px;
+}
+.end-with-one {
+  position: absolute;
+  top: 83px;
+  left: 271px;
+  display: inline-block;
+  font-family: var(--title);
+  width: 899px;
+  height: 142px;
+}
+.this-is-your-container {
+  position: absolute;
+  top: 200px;
+  left: 456px;
+  font-size: var(--font-size-lg);
+  color: var(--text);
+  display: inline-block;
+  width: 529px;
+  height: 198px;
+}
+.joeyy-lee-hxhmzwysb8s-unsplash-icon {
+  position: absolute;
+  top: 447px;
+  left: 2px;
+  width: 1437px;
+  height: 837px;
+  object-fit: cover;
+}
+.rectangle-parent8 {
+  position: absolute;
+  top: 292px;
+  left: 569px;
+  width: 268.41px;
+  height: 62px;
+  font-size: var(--font-size-5xl);
+}
+.child4,
+.div14 {
+  position: absolute;
+  top: 5128px;
+  left: 0;
+  width: 1440px;
+  height: 1284px;
+}
+.child4 {
+  top: 0;
+  left: 676px;
+  background-color: var(--color-tan);
+  width: 763px;
+  height: 1015px;
+}
+.exclusive {
+  margin: 0;
+  text-transform: uppercase;
+}
+.black-friday-services {
+  margin: 0;
+  font-size: 48px;
+}
+.exclusive-black-friday-container {
+  position: absolute;
+  top: 202px;
+  left: 720px;
+  display: inline-block;
+  width: 685px;
+  height: 218px;
+}
+.joeyy-lee-oibaeuefpeg-unsplash-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 705px;
+  height: 1015px;
+  object-fit: cover;
+}
+.buy-online1,
+.complimentary-delivery1,
+.free-gift-wrapping1,
+.free-returns1 {
+  position: absolute;
+  top: 0;
+  left: 36.9px;
+  font-weight: 500;
+  display: inline-block;
+  width: 418.17px;
+  height: 33.21px;
+}
+.buy-online1,
+.free-gift-wrapping1,
+.free-returns1 {
+  top: 76.25px;
+}
+.buy-online1,
+.free-gift-wrapping1 {
+  top: 152.51px;
+}
+.free-gift-wrapping1 {
+  top: 228.76px;
+}
+.ellipse-div {
+  position: absolute;
+  top: 7.38px;
+  left: 0;
+  border-radius: 50%;
+  background: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff),
+    linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), #fff;
+  width: 18.45px;
+  height: 18.45px;
+}
+.group-child13 {
+  top: 83.63px;
+  background-color: var(--color-white);
+}
+.group-child13,
+.group-child14,
+.group-child15 {
+  position: absolute;
+  left: 0;
+  border-radius: 50%;
+  width: 18.45px;
+  height: 18.45px;
+}
+.group-child14 {
+  top: 159.89px;
+  background: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff),
+    linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), #fff;
+}
+.group-child15 {
+  top: 236.14px;
+  background-color: var(--color-white);
+}
+.complimentary-delivery-parent {
+  position: absolute;
+  top: 494.59px;
+  left: 860.94px;
+  width: 455.07px;
+  height: 261.97px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-roboto);
+}
+.div15 {
+  position: absolute;
+  top: 4086px;
+  left: 0;
+  width: 1439px;
+  height: 1015px;
+  font-size: 85px;
+  color: var(--color-white);
+  font-family: var(--title);
+}
+.stella-jewelry-desktop {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 6412px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--title-size);
+  color: var(--title);
+  font-family: var(--font-roboto);
+}
